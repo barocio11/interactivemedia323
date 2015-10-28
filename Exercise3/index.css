@@ -1,0 +1,285 @@
+body {
+    background-image: url("o-ADVENTURE-TRAVEL-PROFILE-facebook.jpg");
+}
+
+.heading {
+	color: white;
+	background-color: #F8F8F8;
+	display: block;
+	padding-left: 150px;
+	padding-top: 20px;
+	height: 35px;
+	width: 100%;
+	position: fixed;
+}
+
+#Icon {
+	display: inline-block;
+	background-color: #1899D0;
+	border-radius: 50px;
+	vertical-align: right;
+	height: 30px;
+	width: 30px;
+	text-align: right;
+	clear: both;
+	position: relative; top: -6px;
+
+}
+
+#Home {
+	display: inline-block;
+	background-color: gray;
+	border-radius: 50px;
+	vertical-align: middle;
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	float: right;
+	clear: both;
+	position: relative; left: 60px;
+}
+
+#About {
+	display: inline-block;
+	background-color: gray;
+	border-radius: 50px;
+	vertical-align: middle;
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	float: right;
+	clear: both;
+	position: relative; left: 80px; top:
+}
+
+#Language {
+	display: inline-block;
+	background-color: gray;
+	border-radius: 50px;
+	vertical-align: middle;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	float: right;
+	clear: both;
+	position: relative; left: 900px; top:
+}
+
+#Heading {
+	display: block;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 50px;
+	position: relative; left: 360px; top: 130px;
+
+}
+
+#Intro {
+	display: block;
+	background-color: #FFFFFF;
+	width: 400px;
+	height: 150px;
+	position: relative; left: 360px; top: 0px;
+}
+
+.Log {
+	display: block;
+	background-color: #FFFFFF;
+	width: 280px;
+	height: 150px;
+	position: relative; left: 825px; top: 50px;
+	border-radius: 10px;
+}
+
+#email {
+	display: block;
+	background-color: grey;
+	width: 250px;
+	height: 35px;
+	position: relative; left: 14px; top: 14px;
+	border-radius: 10px;
+}
+
+#password {
+	display: block;
+	background-color: grey;
+	width: 160px;
+	height: 35px;
+	position: relative; top: 48px;
+	border-radius: 10px;
+}
+
+#button {
+	display: block;
+	background-color: #1899D0;
+	width: 80px;
+	height: 35px;
+	position: relative; left: 170px;
+	border-radius: 10px;
+}
+
+.Sign {
+	display: block;
+	background-color: #FFFFFF;
+	width: 280px;
+	height: 250px;
+	position: relative; left: 825px; top: -120px;
+	border-radius: 10px;
+}
+
+#name {
+	display: block;
+	background-color: grey;
+	width: 250px;
+	height: 35px;
+	position: relative; left: 14px; top: 60px;
+	border-radius: 10px;
+}
+
+#mail {
+	display: block;
+	background-color: grey;
+	width: 250px;
+	height: 35px;
+	position: relative; top: 50px;
+	border-radius: 10px;
+}
+
+#sbutton {
+	display: block;
+	background-color: #FF9933;
+	width: 125px;
+	height: 30px;
+	position: relative; top: 45px; left: 125px;
+	border-radius: 10px;
+}
+
+#pass {
+	display: block;
+	background-color: grey;
+	width: 250px;
+	height: 35px;
+	position: relative; top: 50px;
+	border-radius: 10px;
+}
+
+#title {
+	display: block;
+	background-color: #FFFFFF;
+	width: 250px;
+	height: 25px;
+	position: relative; left: 360px; top: -140px;
+}
+
+#credit {
+	display: block;
+	background-color: #FFFFFF;
+	width: 175px;
+	height: 25px;
+	position: relative; left: 360px; top: -140px;
+}
+
+#date {
+	display: block;
+	background-color: #FFFFFF;
+	width: 100px;
+	height: 25px;
+	position: relative; left: 360px; top: -140px;
+}
+
+#block1 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 360px; top: -100px;
+}
+
+#block2 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 420px; top: -144px;
+}
+
+#block3 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 480px; top: -188px;
+}
+
+#block4 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 540px; top: -232px;
+}
+
+#block5 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 600px; top: -276px;
+}
+
+#block6 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 660px; top: -320px;
+}
+
+#block7 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 720px; top: -364px;
+}
+
+#block8 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 780px; top: -408px;
+}
+
+#block9 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 840px; top: -452px;
+}
+
+#block10 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 900px; top: -496px;
+}
+
+#block11 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 960px; top: -540px;
+}
+
+#block12 {
+	display: block;
+	background-color: #FFFFFF;
+	width: 40px;
+	height: 25px;
+	position: relative; left: 1020px; top: -584px;
+}
+
