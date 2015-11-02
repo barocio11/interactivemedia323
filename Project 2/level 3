@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link type="text/css" rel="stylesheet" href="level.css"/>
+  <title>level 3</title>
+</head>
+
+<body>
+<p class="one">
+	<ol><h1>Happy</h1></ol>
+	<ol><ol><h1> as </h1></ol></ol>
+	<ol><ol><ol><h3>something unimportant</h3></ol></ol></ol>
+	<ol><ol><h3>and free</h3></ol></ol>
+	<ol><h1> as </h1></ol>
+	<h1> a </h1>
+	<ol><ol><ol><h3> thing unimportant<h3></ol></ol></ol>
+</p>
+<br>
+<br>
+<p>
+	<ol><ol><ol><ol><ol><ol><h1>as</h1></ol></ol></ol></ol></ol></ol>
+	<ol><ol><ol><ol><ol><ol><ol><ol><ol><h3> something no one prizes</h3></ol></ol></ol></ol></ol></ol></ol></ol></ol>
+	<ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><h3>and which does not prize itself</h3></ol></ol></ol></ol></ol></ol></ol></ol></ol>
+</p>
+<br>
+<br>
+<ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><p>
+	<h1>as</h1>
+	<h3> something mocked by all </h3>
+	<h3> and which mocks at their mockery</h3>
+</p></ol></ol></ol></ol></ol></ol></ol></ol></ol>
+<br>
+<br>
+<ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><ol><p>
+	<h1>as</h1>
+	<h3> laughter without serious reaction</h3>
+</p></ol></ol></ol></ol></ol></ol></ol></ol></ol></ol></ol></ol></ol>
+<br>
+<br>
+<p>
+	<h1>as</h1>
+	<h1>a</h1>
+	<h3> yell able to outyell itself</h3>
+</p>
+<br>
+<br>
+<p>
+	<ol><ol><ol><ol><h1>Happy</h1></ol></ol></ol></ol>
+	<ol><ol><ol><ol><ol><h1>as</h1></ol></ol></ol></ol></ol>
+	<ol><ol><ol><ol><ol><ol><h3>no matter what</h3></ol></ol></ol></ol></ol></ol>
+</p>
+<br>
+<br>
+<p>
+	<h1>as</h1>
+	<h3>any no matter what</h3>
+</p>
+
+Happy as a dog's tail
+</body>
+</html>
